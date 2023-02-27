@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8+1ovKQ10+Ry7bILw2OM1w2M57q2kgUEgqXCm+ovSjk=",
+  "Source": "docerize",
+  "BasePath": "_content/docerize",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
